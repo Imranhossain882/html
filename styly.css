@@ -1,0 +1,154 @@
+
+
+#social{
+    border: 2px solid blue;
+    background:linear-gradient(
+        rgba(244, 242, 247, 0.837),
+        rgba(0,0,0,0.9)), 
+        url(../assets/social-bg.png);
+
+
+
+        /* background-position:center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 536px;
+        width: 1056px;    
+        background-size: cover;
+        background background-attachment: fixed;    
+        background-position: center; */
+
+
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        width: 1056px;
+        margin-left:auto ;
+        margin-right: auto;
+       
+        
+      
+    }    
+.frame-17{
+position: static;
+width: 644px;
+height: 144px;
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 38px 0px;
+}
+.frame-17>h1{
+    color: rgb(16, 16, 16);
+    font-family: Work Sans;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 51px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.frame-17>p{
+    color: rgb(16, 16, 16);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 24px 0px;
+}
+.frame-18{
+    /* Frame 18 */
+    position: static;
+    width: 1056px;
+    height: 78px;
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10;
+    padding: 29px 8px 29px 8px;
+
+    /* Inside Auto Layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 48px 0px;
+
+
+    box-sizing: border-box;
+    border-bottom: 1px solid rgba(16, 16, 16, 0.2);
+    border-top: 1px solid rgba(16, 16, 16, 0.2);
+}
+.frame-19{
+    /* Frame 19 */
+position: static;
+width: 1056px;
+height: 260px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+gap: 38;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 32px 0px;
+}
+.frame-20{
+    /* Group 1 */
+position: static;
+width: 40px;
+height: 40px;
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 32px;
+
+
+.frame-21{
+    /* Frame 21 */
+    position: absolute;
+    width: 664px;
+    height: 318px;
+    left: 440px;
+    top: 109px;
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    /* justify-content: flex-start; */
+    align-items: center;
+    gap: 25;
+    padding: 0px;
+}
+
+
+
+
+
+
+
+border: 2px solid blue;
+background:linear-gradient(
+    rgba(244, 242, 247, 0.837),
+    rgba(0,0,0,0.9)), 
+    url(../assets/social-bg.png);
+
+
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 1056px;
+    margin-left:auto ;
+    margin-right: auto; 
